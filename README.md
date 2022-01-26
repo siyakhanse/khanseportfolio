@@ -13,7 +13,7 @@ In this class I hope to learn how to make compelling data visualizations. In the
 
 # Portfolio
 Assignment 1:
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/8529829"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 Assignment 2:
 
 Assignment 3:
