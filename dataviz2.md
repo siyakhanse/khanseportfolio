@@ -31,4 +31,16 @@ The graphs below show the debt-to-GDP ratios and economic trends of over 40 coun
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8558259"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+References:
+
+
+Amadeo, K. (2022, January 28). What is the debt-to-GDP ratio? The Balance. Retrieved January 31, 2022, from https://www.thebalance.com/debt-to-gdp-ratio-how-to-calculate-and-use-it-3305832 
+
+
+General Government - General Government Debt - OECD Data. the OECD. (n.d.). Retrieved January 31, 2022, from https://data.oecd.org/gga/general-government-debt.htm 
+
+
+Kenton, W. (2022, January 30). Debt-to-GDP ratio definition. Investopedia. Retrieved January 31, 2022, from https://www.investopedia.com/terms/d/debtgdpratio.asp#:~:text=The%20debt%2Dto%2DGDP%20ratio%20is%20the%20ratio%20of%20a,gross%20domestic%20product%20(GDP).&text=The%20higher%20the%20debt%2Dto,the%20domestic%20and%20international%20markets. 
+
+
  
