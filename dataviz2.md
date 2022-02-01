@@ -44,7 +44,7 @@ Therefore, I assigned a unique colour scheme for every term. For 1995-1999, I ch
 As stated above, when countries whose debt-to-GDP ratios exceed 77% or 64% (in case of an emerging market) over a prolonged period of time, it can cause an economic slowdown. Further, having a high debt-to-GDP ratio can also trigger panic and recession. 
 
 
-As you can see in the visualization, Japan has had a debt-to-GDP ratio of more than 230 since 2015. And they have accumulated a much higher debt in the last 6 years compared to any other time since 1994. The same can be said about Australia. However, if you hover the cursor over the pie chart, you can see that the average debt-to- GDP ratio of Australia in recent times is at 73, well within the tipping point of 77. This is telling of a gradual increase in their yearly debt-to-GDP ratio.
+As you can see in the visualization, Japan has had a debt-to-GDP ratio of more than 230 since 2015. And they have accumulated a much higher debt in the last 6 years compared to any other time since 1994. The same can be said about Australia. However, if you hover the cursor over the pie chart, you can see that the average debt-to- GDP ratio of Australia in recent times is at 73, well within the tipping point of 77. In case of Japan and Australia, this is suggestive of a gradual increase in their yearly debt-to-GDP ratio.
 
 
 There are many observations one can make about a country and its correlation with a major event that affected its economy. For example, it’s interesting to follow the yearly debt-to-GDP ratio of USA around and after the 2008 recession.
