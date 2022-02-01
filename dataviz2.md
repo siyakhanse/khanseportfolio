@@ -16,7 +16,7 @@ However, this is hard to achieve in times of financial or civil unrest. It’s n
 As per a study conducted by the World Bank, countries whose debt-to-GDP rations exceed 77% for prolonged periods experience significant slowdowns in economic growth. Every percentage point increase of debt above this level costs countries 0.017 percentage points in economic growth. This phenomenon is even more aggravated in developing economies, where each additional percentage point of debt over 64% annually slows growth by 0.02% (Amadeo, 2022).
 
 
-The graphs below show the debt-to-GDP ratios and economic trends of over 40 countries and may be prove to be an important tool in understanding the correlation between multiple variables such as dependence of certain countries on others, recession, impact of wars or even a global pandemic on the economic health of nations. 
+The graphs below show the debt-to-GDP ratios and economic trends of over 40 countries and may be prove to be an important tool in understanding the correlation between multiple variables such as countries, recession, impact of wars or a global pandemic on the economic health of nations. 
 
 
 
