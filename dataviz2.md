@@ -1,6 +1,6 @@
 General government debt
 
-SUMMARY:
+INTRODUCTION:
 
 Federal debt is an amount of money that a country has borrowed and needs to pay off at some point. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits (OECD, n.d.). Gross domestic Product (GDP) is the total of all value created in an economy. The debt-to-GDP ratio is a metric that compares a country’s public debt to its GDP. It’s generally measured in percentage and the formula is as follows: Debt-to-GDP = Total debt / Total GDP of a country
 
@@ -23,13 +23,34 @@ The graphs below show the debt-to-GDP ratios and economic trends of over 40 coun
 <iframe src="https://data.oecd.org/chart/6BgG" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BgG" target="_blank">OECD Chart: General government debt, Total, % of GDP, 2020</a></iframe>
 
 
-#Flourish 1
+
+
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8557947"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-#Flourish 2
+
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8558259"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+SUMMARY:
+
+
+The first visualization, bar chart, shows the debt-to-GDP ratio of countries and compares the financial performances at a given point (in this visualization it’s 2020). The second visualization, grid of line charts, shows debt-to-GDP ratio of a particular country over time from 1995 to 2019.The third visualization which is a grid of pie charts gives a visual summary of countries’ debt-to GDP ratios in terms of 5 years. The reason I decided to show this data in this pattern is because I wanted to look at a quick overview of the high or low a country’s debt-to-GDP ratio was in chunks of 5 years. But I especially wanted to emphasize slightly more on a more recent period, 2015-2020. In this visualization we want to look at a country’s 5-yearly performance with itself, not other countries. 
+
+
+Therefore, I assigned a unique colour scheme for every term. For 1995-1999, I chose to go with silver. For 2000-2004, I assigned tan. For 2005-2009, 2010-2014, and 2015-2020, I assigned the colors yellow, orange and red respectively. I also wanted to still make every year distinguishable from the other so I tried to achieve that using gradients. Lighter to darker being oldest to newest in that group of 5 years.
+
+
+As stated above, when countries whose debt-to-GDP ratios exceed 77% or 64% (in case of an emerging market) over a prolonged period of time, it can cause an economic slowdown. Further, having a high debt-to-GDP ratio can also trigger panic and recession. 
+
+
+As you can see in the visualization, Japan has had a debt-to-GDP ratio of more than 230 since 2015. And they have accumulated a much higher debt in the last 6 years compared to any other time since 1994. The same can be said about Australia. However, if you hover the cursor over the pie chart, you can see that the average debt-to- GDP ratio of Australia in recent times is at 73, well within the tipping point of 77. This is telling of a gradual increase in their yearly debt-to-GDP ratio.
+
+
+There are many observations one can make about a country and its correlation with a major event that affected its economy. For example, it’s interesting to follow the yearly debt-to-GDP ratio of USA around and after the 2008 recession.
+
+
+
 
 References:
 
