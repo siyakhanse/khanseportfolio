@@ -47,7 +47,7 @@ Respondent 1: No
 
 Respondent 2: Other than the two mentioned graphs, I would make one more graph (a vertical bar graph) that would denote all the fruits and their type of produce within the range of all prices shown. Only to know my options for the product(s) that are within a specific price per cup. This information would be useful for retail market where they can choose the products they get in for sale.
 
-![prototype2](2.png)
+![prototype1](2.jpg)
 
 Graph 2:
 
