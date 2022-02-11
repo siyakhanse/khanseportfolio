@@ -2,7 +2,8 @@ Assignment 3 & 4- Critique by Design
 
 **USDA ERS ORIGINAL VISUALIZATION**
 
-https://github.com/siyakhanse/khanseportfolio/blob/014029a3cd776b8676f036c10f6541a005aaac68/usda%20dataviz.PNG
+![original](usda dataviz.PNG)
+
 
 **WIREFRAMING**
 
