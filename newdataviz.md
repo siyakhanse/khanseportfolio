@@ -1,5 +1,7 @@
 Assignment 3 & 4- Critique by Design
 
+---- 
+
 **USDA ERS ORIGINAL VISUALIZATION**
 
 ![original](usda dataviz.PNG)
@@ -12,6 +14,8 @@ Assignment 3 & 4- Critique by Design
 **INTERVIEWS**
 
 Graph 1:
+
+![prototype1](1.jpg)
 
 Q. Can you tell me what you think this is?
 
@@ -35,7 +39,7 @@ Respondent 2: I did not find anything surprising or confusing but would like to 
 
 
 Q. Who do you think is the intended audience for this?
- 
+
 Respondent 1: Homemakers/mothers, grocers, other parties (like ketchup brands for tomatoes, jam brands for mangos, etc etc)
 
 Respondent 2: The intended audience would be those business groups who aim for manufacturing packaged products made from fruits. The interpretation would also be useful for startups who seek to enter the market with budgeting constraints.
@@ -47,6 +51,7 @@ Respondent 1: No
 
 Respondent 2: Other than the two mentioned graphs, I would make one more graph (a vertical bar graph) that would denote all the fruits and their type of produce within the range of all prices shown. Only to know my options for the product(s) that are within a specific price per cup. This information would be useful for retail market where they can choose the products they get in for sale.
 
+![prototype2](2.png)
 
 Graph 2:
 
