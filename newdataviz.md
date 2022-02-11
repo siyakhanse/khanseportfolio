@@ -7,11 +7,7 @@ Assignment 3 & 4- Critique by Design
 ![original](usda dataviz.PNG)
 
 
-**WIREFRAMING**
-
-
-
-**INTERVIEWS**
+**WIREFRAMING DOLUTIONS AND INTERVIEW RESPONSES**
 
 Graph 1:
 
