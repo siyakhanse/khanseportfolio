@@ -1,6 +1,6 @@
 Assignment 3 & 4- Critique by Design
 
-##INTERVIEWS
+**INTERVIEWS
 
 Graph 1:
 
@@ -79,7 +79,7 @@ Respondent 2:  Other than the two mentioned graphs, I would make one more graph 
 
 ---- 
 
-##REVISIONS
+**REVISION
 
 Based on my critique and recommendations in assignment 3- Assign value/currency to the y axis, minimize the use of colors, assigning the FORM a unique color, switching axes and making labels readable, I have recreated the visualization.
 
