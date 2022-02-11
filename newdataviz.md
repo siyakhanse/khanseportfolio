@@ -7,41 +7,41 @@ Assignment 3 & 4- Critique by Design
 ![original](usda dataviz.PNG)
 
 
-**WIREFRAMING DOLUTIONS AND INTERVIEW RESPONSES**
+**WIREFRAMING SOLUTIONS AND INTERVIEW RESPONSES**
 
 Graph 1:
 
 ![prototype1](1.jpg)
 
-Q. Can you tell me what you think this is?
+**Q. Can you tell me what you think this is?**
 
 Respondent 1: A visual representation of fruits sold in various forms/packaging and the average price per cup. Also, how nutrient-rich they are based on the way they’re packed/sold
 
 Respondent 2: These graphs are telling me the average price per cup, in US dollars, for different fruits as per their type of produce.
 
 
-Q. Can you describe to me what this is telling you?
+**Q. Can you describe to me what this is telling you?**
 
 Respondent 1:  Apples (considered an less elite fruit compared to the others) is priced more (it should prolly be around as much as bananas?)
 
 Respondent 2:  It is easy to visualize the price per cup for all the fruits that fall under a particular category of type of produce.
 
 
-Q. Is there anything you find surprising or confusing?
+**Q. Is there anything you find surprising or confusing?**
 
 Respondent 1: What surprising to me is the stark difference in price of canned apricots from dried apricots - I think this may be because canned apricots are fresher than dried ones and so have more nutrients
 
 Respondent 2: I did not find anything surprising or confusing but would like to add that the type of categorization used in both the graphs solely depends on the usage
 
 
-Q. Who do you think is the intended audience for this?
+**Q. Who do you think is the intended audience for this?**
 
 Respondent 1: Homemakers/mothers, grocers, other parties (like ketchup brands for tomatoes, jam brands for mangos, etc etc)
 
 Respondent 2: The intended audience would be those business groups who aim for manufacturing packaged products made from fruits. The interpretation would also be useful for startups who seek to enter the market with budgeting constraints.
 
 
-Q. Is there anything you would change or do differently?
+**Q. Is there anything you would change or do differently?**
 
 Respondent 1: No
 
@@ -51,21 +51,21 @@ Respondent 2: Other than the two mentioned graphs, I would make one more graph (
 
 Graph 2:
 
-Q. Can you tell me what you think this is?
+**Q. Can you tell me what you think this is?**
 
 Respondent 1: This is definitely a better way of visually representing what you’re trying to explain - type of packaging and nutrient level as to price per cup 
 
 Respondent 2: These graphs are telling me the average price per cup, in US dollars, for different fruits as per their type of produce.
 
 
-Q. Can you describe to me what this is telling you?
+**Q. Can you describe to me what this is telling you?**
 
 Respondent 1: Frozen apples and canned bananas incur similar costs in terms of harvesting (maybe even nutrient levels?)
 
 Respondent 2: It is easy to visualize the price per cup for all the types of produce for any mentioned fruit
 
 
-Q. Is there anything you find surprising or confusing?
+**Q. Is there anything you find surprising or confusing?**
 
 Respondent 1: It's a little too much
 
@@ -73,15 +73,14 @@ Respondent 2: I did not find anything surprising or confusing but would like to 
 For instance; if I were to know the types of produce that exceed a certain amount per cup for a specific fruit then graph 2 would be preferred for less confusion. Similarly the other way around for graph 1.
 
 
-Q. Who do you think is the intended audience for this?
+**Q. Who do you think is the intended audience for this?**
 
 Respondent 1: Same as above
 
 Respondent 2: The intended audience would be those business groups who aim for manufacturing packaged products made from fruits. The interpretation would also be useful for startups who seek to enter the market with budgeting constraints.
 
---
 
-Q. Is there anything you would change or do differently?
+**Q. Is there anything you would change or do differently?**
 
 Respondent 1: I wouldn't group by fruits. It's a lot.
 
