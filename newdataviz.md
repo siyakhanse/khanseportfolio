@@ -6,6 +6,26 @@ Assignment 3 & 4- Critique by Design
 
 ![original](usda dataviz.PNG)
 
+**CRITIQUE**
+
+Type of Visualization: I like the idea of using column chart for categorical differentiation and comparison of prices. It’s simple and serves the purpose.
+
+Interaction: I like that the visualization is interactive and the viewer can manually choose which category (frozen/fresh/canned) they want to look and even filter the fruits/vegetables they want to compare. The way it is done here gives the viewer the freedom to look at data that’s relevant to them. 
+
+Metric: The average price is measured in cups and in my opinion that is not the ideal metric to use when you’re weighing fresh produce along with canned, frozen, etc. Perhaps the ideal metric would be pounds because users may not know how to perceive one cup of say, fresh apples.
+
+Color Allocation: The colors at first seem extremely random. However, upon analyzing further you can see the designer has used orange for oranges, green for spinach, yellow for corn, etc. The problem arises when we have multiple fruits and vegetables with the same colour. For example, if you can see, apples, cranberries and nectarines are all red with only a slight difference of hue/brightness. Similarly, all green veggies like kale, spinach, asparagus, avocado, broccoli, okra, etc. have green bars. 
+In terms of organizing the fruits and vegetables, I understand that the designer has chosen to arrange them on the x axis alphabetically. But I find that different values of products in their respective categories is resulting in visual haphazardness here. While I see the data, I don’t know what story it’s telling.
+
+Labels: In terms of labels on the x axis, having them at an orientation of 90 degrees results in having the reader tilt their neck to read the categories. This obviously makes it inconvenient for the audience and also breaks the flow causing an interruption in grasping the information being communicated. 
+On the y axis, I would assume the numbers I see are in dollars. However, with the lack of $ sign, I cannot guarantee that.
+
+So, if I re-did the visualization, I would stick to the visualization type as I think it is appropriate for the data. However, I would opt for a bar chart instead of column chart for better readability of labels. In terms of grouping similar variables together, I would either group all products in the different forms they are consumed, such as- fresh, frozen, canned, etc.; or, I would segregate the data as per the fruit/vegetable and have bars (representing the form they are consumed in) and club them on the basis of product type. My sample sketches on paper will convey the two ideas. 
+
+This information is relevant to any and everyone since we all consume fruits and vegetables. The tool is useful for those who want to identify the different price points of fruits and vegetables and their pricing and differences in the pricing based on the consumed forms.
+
+However, to narrow down, this tool is most useful for understanding food security, resource allocation, inflation of prices of basic necessities, or making business decisions- especially if one is into agriculture or uses fruits/vegetables as raw materials for their products. This is an extremely broad market so this visualization can be perceived in many ways and the implications can be abundant. Since the interactive nature of this visualization allows the user to see the data that’s relevant to them, I believe it is an effective one.
+
 
 **WIREFRAMING SOLUTIONS AND INTERVIEW RESPONSES**
 
