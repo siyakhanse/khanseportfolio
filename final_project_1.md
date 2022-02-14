@@ -9,8 +9,6 @@ As a reader I want to be aware of my role in global warming so I can make better
 Call to action- Incorporating more plant-based foods in our diets
 
 
-**INITIAL SKETCHES:**
-
 **DATA SOURCES:**
 I have identified multiple sources of data for my project- USDA, Oxford Academic, Proceedings of the National Academy of Sicences of the United States of America and IOP Science.
 The links are as follows
@@ -25,6 +23,9 @@ https://www.pnas.org/content/116/46/23357
 
 
 While the aforementioned links provide the raw data needed, I will refer to additional sources such as Meatless Monday, PETA, Plant Based News, etc anddocumentaries like Seaspiracy that have tied this data together as I work towards the execution of the project.
+
+
+**INITIAL SKETCHES:**
 
 **STRUCTURE:**
 ACT 1/BEGINNING:
