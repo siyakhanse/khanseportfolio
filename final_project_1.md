@@ -26,6 +26,10 @@ While the aforementioned links provide the raw data needed, I will refer to addi
 
 
 **INITIAL SKETCHES:**
+![1](image0 (6).jpeg)
+![2](image1 (2).jpeg)
+![3](image2 (4).jpeg)
+
 
 **STRUCTURE:**
 ACT 1/BEGINNING:
