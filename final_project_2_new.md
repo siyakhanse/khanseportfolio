@@ -65,3 +65,30 @@ Respondent 1: I think the questions covered it all
 
 Respondent 2: I think you can make a more sound/ persuasive argument
 
+----
+
+As a part of my final project, I intend to show the visualizations the way I have shown in part 1 and 2 since they are very clear to understand. In part 3, I will be adding additional supporting materials and attempting to simplify the complex correlations between multiple datasets.
+
+
+Based on my user research and interviews, I have realized that I can definitely make a more compelling argument. My struggle is that the core datasets I have are so raw that the correlation is made based on a combination of multiple data sets. Therefore, you will find more sources than usual. For example, the energy required to produce every type of food + the output (calories/energy consumable). There are plants that humans can directly consume and then there are plants that animals consume that we humans consume. In essence, cows, hens, etc. act as middlemen in the food intake system. The data findings for this topic are available but extremely difficult to navigate around. So to be effective I have to explain what the findings are based on, without making it overwhelming while still showing the research behind it.
+
+
+As far as the narrative goes, I have decided to narrow it down simply to deforestation and CO2 emissions even though there are many more environmental consequences. Ultimately, I understand the data visualizations I present have to be informed with sound research and therefore, based on my progress in research, I might make minor tweaks in the content I present. 
+
+----
+
+SOURCES-
+
+https://gelr.org/2015/10/23/a-leading-cause-of-everything-one-industry-that-is-destroying-our-planet-and-our-ability-to-thrive-on-it-georgetown-environmental-law-review/
+
+https://www.cowspiracy.com/
+
+https://link.springer.com/content/pdf/10.1007/s10584-014-1169-1.pdf
+
+https://academic.oup.com/ajcn/article/78/3/660S/4690010
+
+https://data.nal.usda.gov/dataset/data-gas-emissions-dairy-barnyards
+
+https://iopscience.iop.org/article/10.1088/1748-9326/aa6cd5
+
+https://www.pnas.org/content/116/46/23357
