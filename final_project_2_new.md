@@ -3,6 +3,8 @@
 
 **TOPIC: TACKLE GLOBAL WARMING WITH THE POWER OF YOUR FORK**
 
+Global warming is a pressing issue that impacts every living being on the planet. While there are multiple factors that contribute to it, there's one that is the biggest contributor. And while you might be surprised and even disappointed to learn about it, there's always a solution, if not many. 
+
 ![1](1.1.jpg)
 ![2](2.1.jpg)
 ![3](3.1.jpg)
@@ -10,6 +12,7 @@
 ![5](5.jpg)
 ![6](6.jpg)
 ![7](7.jpg)
+
 
 Feedback:
 
@@ -73,7 +76,7 @@ As a part of my final project, I intend to show the visualizations the way I hav
 Based on my user research and interviews, I have realized that I can definitely make a more compelling argument. My struggle is that the core datasets I have are so raw that the correlation is made based on a combination of multiple data sets. Therefore, you will find more sources than usual. For example, the energy required to produce every type of food + the output (calories/energy consumable). There are plants that humans can directly consume and then there are plants that animals consume that we humans consume. In essence, cows, hens, etc. act as middlemen in the food intake system. The data findings for this topic are available but extremely difficult to navigate around. So to be effective I have to explain what the findings are based on, without making it overwhelming while still showing the research behind it.
 
 
-As far as the narrative goes, I have decided to narrow it down simply to deforestation and CO2 emissions even though there are many more environmental consequences. Ultimately, I understand the data visualizations I present have to be informed with sound research and therefore, based on my progress in research, I might make minor tweaks in the content I present. 
+As far as the narrative goes, I have decided to narrow it down simply to deforestation and CO2 emissions even though there are many more environmental consequences. I will also provide alternatives and tips to partially (or completely) embrace plant-based lifestyle. Ultimately, I understand the data visualizations I present have to be informed with sound research and therefore, based on my progress in research, I might make minor tweaks in the content I present. 
 
 ----
 
