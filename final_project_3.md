@@ -16,7 +16,11 @@ Since I picked up different techniques of data visualizations in this class, I d
 
 **AUDIENCE:**
 
-I was apprehensive about the topic from the start as this topic often is misinterpreted and isn’t well-received. Based on my user research and discussion with peers (predominantly meat eaters), I decided to use a tone as understanding and relatable as possible. I didn’t want to make anyone feel attacked. I understand one cannot force decisions; that will never accomplish change.  The ideal audience for this project is anyone and everyone. But my hope is for it to resonate most with people who sincerely practice other sustainable habits. I have therefore, embedded URLs to 3 of my most trusted resources for those who choose to act on it. Based on my personal experience, I know it touches base on every element of adopting a plant-based lifestyle.
+I was apprehensive about the topic from the start as this topic often is misinterpreted and isn’t well-received. Based on my user research and discussion with peers (predominantly meat eaters), I decided to use a tone as understanding and relatable as possible. I didn’t want to make anyone feel attacked. I understand one cannot force decisions; that will never accomplish change.  The ideal audience for this project is anyone and everyone.
+
+My key takeaways from my interviews were that the reader doesn't just want to know what to do. A big part of implementing action is to address the HOWs. I was also told that 3 data visualizations were not enough to convince them. This influenced my decision of adding additional data visualizations and resources which were initially not in the plan.
+
+Having said that, my hope is for it to resonate most with people who sincerely practice other sustainable habits. I have therefore, embedded URLs to 3 of my most trusted resources for those who choose to act on it. Based on my personal experience, I know it touches base on every element of adopting a plant-based lifestyle.
 
 
 **NOTE ABOUT CITATIONS:**
