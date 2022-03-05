@@ -22,8 +22,9 @@ In this class I hope to learn how to make compelling data visualizations. In the
 
 Final Project:
 
-[Part 1](https://siyakhanse.github.io/khanseportfolio/final_project_1.html)
+Shorthand story- [Tackle Climate change with the power of your fork](https://carnegiemellon.shorthandstories.com/tackle-climate-change/index.html)
+
+Stages of the project- [Part 1](https://siyakhanse.github.io/khanseportfolio/final_project_1.html)
 [Part 2](https://siyakhanse.github.io/khanseportfolio/final_project_2.html)
 [Part 3](https://siyakhanse.github.io/khanseportfolio/final_project_3.html)
 
-Final Shorthand story- [Tackle Climate change with the power of your fork](https://carnegiemellon.shorthandstories.com/tackle-climate-change/index.html)
