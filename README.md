@@ -10,13 +10,29 @@ I am passionate about working on design-oriented solutions. I'm a quick learner,
 In this class I hope to learn how to make compelling data visualizations. In the future, I'd like to work in the realm of marketing, strategy and business development. 
 
 # Portfolio
+
+
 Assignment 1:
 <div class="flourish-embed flourish-chart" data-src="visualisation/8529829"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
 
 
 Assignment 2:
 <iframe src="https://data.oecd.org/chart/6BgF" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BgF" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 
+
+
+
+
 Assignment 3 & 4:
+
 [Assignment 3 and 4- Critique by Design](https://siyakhanse.github.io/khanseportfolio/newdataviz.html)
+
+
+
+Final Project:
+
+[Tackle Climate change with the power of your fork](https://carnegiemellon.shorthandstories.com/tackle-climate-change/index.html)
